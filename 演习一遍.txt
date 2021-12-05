@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+            <head>
+                         <title>演习一遍而已</title>
+            </head>
+            <body>
+                          <h2>这是第一个标题</h2>
+                           <p>bbbuulalalal</p>
+                          <h3>这是第二个标题</h3>
+                           <p>lalalaluuuu</p>
+                           <img src="http://a-ssl.duitang.com/uploads/item/201802/01/2018020124345_KCskj.thumb.700_0.jpeg" alt="陈晓帅死我算了">
+                            <a href="https://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&dyTabStr=MCwzLDEsNiw0LDUsNywyLDgsOQ%3D%3D&word=%E9%99%88%E6%99%93">我是一个可以点击的超链接~~</a>
+            </body>
+</html>
